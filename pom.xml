@@ -14,7 +14,7 @@
 	<name>ServicioEscuelaNueva</name>
 	<description>Servicio Rest utilizando sprint</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
